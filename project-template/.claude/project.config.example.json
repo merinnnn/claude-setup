@@ -1,0 +1,14 @@
+{
+  "branchPrefix": "feature/claude/",
+  "protectedBranches": ["main", "master"],
+  "verification": {
+    "format": "",
+    "lint": "",
+    "typecheck": "",
+    "test": ""
+  },
+  "commitPolicy": {
+    "verifiedOnly": true,
+    "allowEmpty": false
+  }
+}
